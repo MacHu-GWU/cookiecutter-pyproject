@@ -3,11 +3,11 @@
     // this would be the name for ``pip install ${package_name}``
     "package_name": "{{ cookiecutter.package_name }}",
     // the python major version you use for local development
-    "dev_py_ver_major": 3,
+    "dev_py_ver_major": {{ cookiecutter.py_ver_major }},
     // the python minor version you use for local development
-    "dev_py_ver_minor": 8,
+    "dev_py_ver_minor": {{ cookiecutter.py_ver_minor }},
     // the python micro version you use for local development
-    "dev_py_ver_micro": 11,
+    "dev_py_ver_micro": {{ cookiecutter.py_ver_micro }},
 
     // if you use AWS S3 to host your document website
     // it is the aws profile you use for doc site deployment
