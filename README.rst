@@ -49,7 +49,7 @@ Or, you can use a specific released version, you can find `full list of release 
 
     # use specific version
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/${version}
-    # for example (v5 is the latest as of 2023-06-13)
+    # for example (v1 is the latest as of 2023-06-13)
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v1
 
 Then fill in some information::
