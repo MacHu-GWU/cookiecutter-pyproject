@@ -6,5 +6,8 @@
     "author_email": "author@email.com",
     "maintainer_name": "Maintainer Name",
     "maintainer_email": "maintainer@email.com",
-    "semantic_version": "0.1.1"
+    "semantic_version": "0.1.1",
+    "py_ver_major": "3",
+    "py_ver_minor": "8",
+    "py_ver_micro": "11"
 }
