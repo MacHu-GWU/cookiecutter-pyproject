@@ -1,10 +1,10 @@
 .. image:: https://readthedocs.org/projects/cookiecutter-pyproject/badge/?version=latest
-    :target: https://cookiecutter-pyproject.readthedocs.io/en/latest/index.html
+    :target: https://cookiecutter-pyproject.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 ``cookiecutter-pyproject``
 ==============================================================================
-`FULL DOCUMENT IS HERE <https://cookiecutter-pyproject.readthedocs.io/index.html>`_
+`FULL DOCUMENT IS HERE <https://cookiecutter-pyproject.readthedocs.io/en/latest/>`_
 
 
 Summary
