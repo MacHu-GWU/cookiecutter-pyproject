@@ -2,6 +2,13 @@
     :target: https://cookiecutter-pyproject.readthedocs.io/en/latest/
     :alt: Documentation Status
 
+.. image:: https://img.shields.io/badge/Release_History!--None.svg?style=social
+    :target: https://github.com/MacHu-GWU/cookiecutter-pyproject/blob/main/release-history.rst
+
+.. image:: https://img.shields.io/badge/STAR_Me_on_GitHub!--None.svg?style=social
+    :target: https://github.com/MacHu-GWU/cookiecutter-pyproject
+
+
 ``cookiecutter-pyproject``
 ==============================================================================
 `FULL DOCUMENT IS HERE <https://cookiecutter-pyproject.readthedocs.io/en/latest/>`_
