@@ -2,8 +2,6 @@
     :target: https://cookiecutter-pyproject.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://cookiecutter-pyproject.readthedocs.io/en/latest/_static/cookiecutter-pyproject-logo.png
-
 ``cookiecutter-pyproject``
 ==============================================================================
 `FULL DOCUMENT IS HERE <https://cookiecutter-pyproject.readthedocs.io/en/latest/>`_
