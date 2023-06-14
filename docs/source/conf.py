@@ -26,7 +26,7 @@ import os
 from datetime import datetime
 
 package_name = "cookiecutter-pyproject"
-__version__ = "v1"
+__version__ = "1"
 
 # -- General configuration ------------------------------------------------
 
