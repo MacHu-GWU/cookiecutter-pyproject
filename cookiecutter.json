@@ -1,0 +1,10 @@
+{
+    "package_name": "your_package_name_with_underscore",
+    "package_name_slugify": "your-package-name-with-hyphen",
+    "github_username": "your-github-username",
+    "author_name": "Author Name",
+    "author_email": "author@email.com",
+    "maintainer_name": "Maintainer Name",
+    "maintainer_email": "maintainer@email.com",
+    "semantic_version": "0.1.1"
+}
