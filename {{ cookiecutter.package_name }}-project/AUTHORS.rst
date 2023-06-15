@@ -13,4 +13,3 @@ About the Author
 Talk is cheap, show me the code:
 
 - My Github: https://github.com/{{ cookiecutter.github_username }}
-

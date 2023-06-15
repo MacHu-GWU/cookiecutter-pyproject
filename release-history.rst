@@ -15,6 +15,13 @@ Backlog (TODO)
 **Miscellaneous**
 
 
+V2 (2023-06-14)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Bugfixes**
+
+- fix a bug that we should use standard library ``pathlib``, not ``pathlib_mate`` in ``${package_name}/paths.py``
+
+
 v1 (2023-06-13)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
