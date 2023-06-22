@@ -40,8 +40,7 @@ Enter the following command, it will use the latest template.
 
 .. code-block:: bash
 
-    pip install cookiecutter
-    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject
+    pip install cookiecutter && cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject
 
 Or, you can use a specific released version, you can find `full list of release at here <https://github.com/MacHu-GWU/cookiecutter-pyproject/releases>`_.
 
@@ -49,6 +48,9 @@ Or, you can use a specific released version, you can find `full list of release 
 
     # use specific version
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/${version}
+
+.. code-block:: bash
+
     # for example (v2 is the latest as of 2023-06-14)
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v2
 
