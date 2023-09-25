@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright 2023 Firstname Lastname <https://github.com/my-github-username/my_package-project>
+Copyright 2023 Sanhe Hu <https://github.com/MacHu-GWU/my_package-project>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -8,8 +8,8 @@ from ._version import __version__
 
 __short_description__ = "Package short description."
 __license__ = "MIT"
-__author__ = "Firstname Lastname"
-__author_email__ = "firstname.lastname@email.com"
-__maintainer__ = "Firstname Lastname"
-__maintainer_email__ = "firstname.lastname@email.com"
-__github_username__ = "my-github-username"
+__author__ = "Sanhe Hu"
+__author_email__ = "husanhe@gmail.com"
+__maintainer__ = "Sanhe Hu"
+__maintainer_email__ = "husanhe@gmail.com"
+__github_username__ = "MacHu-GWU"
