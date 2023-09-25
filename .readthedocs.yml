@@ -11,8 +11,6 @@ sphinx:
 
 python:
   install:
-  - method: pip
-    path: .
   - requirements: requirements.txt
   - requirements: requirements-doc.txt
   - requirements: requirements-furo-sphinx-search.txt
