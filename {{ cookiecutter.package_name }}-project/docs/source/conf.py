@@ -69,7 +69,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = package_name
-copyright = '{}, Sanhe Hu'.format(datetime.utcnow().year, package_author)
+copyright = '{}, {}'.format(datetime.utcnow().year, package_author)
 author = package_author
 
 # The version info for the project you're documenting, acts as replacement for
