@@ -15,6 +15,15 @@ Backlog (TODO)
 **Miscellaneous**
 
 
+V3 (2023-09-25)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Allow to use jupyter notebook as the documentation source.
+- Enable sphinx search in furo theme.
+- Adapt the Readthedocs new convention using the ``.readthedocs.yml`` file.
+
+
 V2 (2023-06-14)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Bugfixes**
