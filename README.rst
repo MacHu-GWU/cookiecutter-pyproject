@@ -51,8 +51,8 @@ Or, you can use a specific released version, you can find `full list of release 
 
 .. code-block:: bash
 
-    # for example (v2 is the latest as of 2023-06-14)
-    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v2
+    # for example (v3 is the latest as of 2023-09-25)
+    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v3
 
 Then fill in some information::
 
