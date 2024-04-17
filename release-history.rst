@@ -19,9 +19,11 @@ V4 (2023-04-17)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Minor Improvements**
 
-- Upgrade ``docfly`` to ``2.0.3``
-- Upgrade main Python version to 3.10
+- Upgrade ``docfly`` to ``2.0.3``.
+- Upgrade main Python version to 3.10.
 - Ignore ``${package_name}/tests/`` folder when packaging distribution.
+- Add ``python_requires`` in ``setup.py``.
+- Bump CI and setup requirements to ``>=3.8``.
 
 
 V3 (2023-09-25)
