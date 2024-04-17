@@ -44,15 +44,17 @@ Enter the following command, it will use the latest template.
 
 Or, you can use a specific released version, you can find `full list of release at here <https://github.com/MacHu-GWU/cookiecutter-pyproject/releases>`_.
 
+Use specific version:
+
 .. code-block:: bash
 
-    # use specific version
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/${version}
 
+For example (v4 is the latest as of 2024-04-17)
+
 .. code-block:: bash
 
-    # for example (v3 is the latest as of 2023-09-25)
-    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v3
+    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v4
 
 Then fill in some information::
 
