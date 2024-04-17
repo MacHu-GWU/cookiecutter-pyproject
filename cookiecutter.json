@@ -8,6 +8,6 @@
     "maintainer_email": "maintainer@email.com",
     "semantic_version": "0.1.1",
     "py_ver_major": "3",
-    "py_ver_minor": "8",
-    "py_ver_micro": "11"
+    "py_ver_minor": "10",
+    "py_ver_micro": "10"
 }

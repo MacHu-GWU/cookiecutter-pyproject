@@ -15,6 +15,15 @@ Backlog (TODO)
 **Miscellaneous**
 
 
+V4 (2023-04-17)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Minor Improvements**
+
+- Upgrade ``docfly`` to ``2.0.3``
+- Upgrade main Python version to 3.10
+- Ignore ``${package_name}/tests/`` folder when packaging distribution.
+
+
 V3 (2023-09-25)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
