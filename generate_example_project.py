@@ -29,6 +29,10 @@ cookiecutter(
         "py_ver_major": "3",
         "py_ver_minor": "8",
         "py_ver_micro": "11",
+        "readthedocs_username": "MyReadthedocsUsername",
+        "codecov_token_name": "MyCodecovTokenName",
+        "github_token_name": "MyGithubTokenName",
+        "readthedocs_token_name": "MyReadthedocsTokenName"
     },
     no_input=True,
 )

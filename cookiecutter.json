@@ -9,5 +9,9 @@
     "semantic_version": "0.1.1",
     "py_ver_major": "3",
     "py_ver_minor": "10",
-    "py_ver_micro": "10"
+    "py_ver_micro": "10",
+    "readthedocs_username": "YourReadthedocsUsername",
+    "codecov_token_name": "YourCodecovTokenName",
+    "github_token_name": "YourGithubTokenName",
+    "readthedocs_token_name": "YourReadthedocsTokenName"
 }

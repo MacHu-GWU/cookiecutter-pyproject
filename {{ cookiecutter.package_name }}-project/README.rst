@@ -3,7 +3,7 @@
     :target: https://{{ cookiecutter.package_name_slugify }}.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.package_name }}-project/workflows/CI/badge.svg
+.. image:: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.package_name }}-project/actions/workflows/main.yml/badge.svg
     :target: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.package_name }}-project/actions?query=workflow:CI
 
 .. image:: https://codecov.io/gh/{{ cookiecutter.github_username }}/{{ cookiecutter.package_name }}-project/branch/main/graph/badge.svg
@@ -50,6 +50,9 @@
 
 Welcome to ``{{ cookiecutter.package_name }}`` Documentation
 ==============================================================================
+.. image:: https://{{ cookiecutter.package_name_slugify }}.readthedocs.io/en/latest/_static/{{ cookiecutter.package_name }}-logo.png
+    :target: https://{{ cookiecutter.package_name_slugify }}.readthedocs.io/en/latest/
+
 Documentation for ``{{ cookiecutter.package_name }}``.
 
 
