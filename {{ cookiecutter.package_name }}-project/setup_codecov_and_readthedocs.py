@@ -207,6 +207,14 @@ if __name__ == "__main__":
     # --------------------------------------------------------------------------
     # Don't touch code below
     # --------------------------------------------------------------------------
+    user_input = input(
+        "Are you sure you want to setup codecov.io and readthedocs.org for your GitHub repository?\n"
+        "You should wait for at least 30 seconds after you create your GitHub repository before running this.\n"
+        "Type 'Y' to continue: "
+    )
+    if user_input.strip() != "Y":
+        raise ValueError("User aborted.")
+
     path_codecov_token = get_codecov_token_file(
         service=service,
         owner_username=codecov_owner_username,

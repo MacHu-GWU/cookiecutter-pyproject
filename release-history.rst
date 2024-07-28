@@ -15,6 +15,15 @@ Backlog (TODO)
 **Miscellaneous**
 
 
+V5 (2024-07-28)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Update the github CI badge link to the latest naming convention.
+- Add ``setup_codecov_and_readthedocs.py`` script.
+- Add a branch just for my personal use.
+
+
 V4 (2023-04-17)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Minor Improvements**
