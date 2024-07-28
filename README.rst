@@ -50,11 +50,11 @@ Use specific version:
 
     cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/${version}
 
-For example (v4 is the latest as of 2024-04-17)
+For example (v5 is the latest as of 2024-07-28)
 
 .. code-block:: bash
 
-    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v4
+    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout tags/v5
 
 Then fill in some information::
 
@@ -74,3 +74,9 @@ Then it will generate a Git repo folder structures like this:
 - ``/pyproject_ops.json``: the `pyproject_ops <https://github.com/MacHu-GWU/pyproject_ops-project>`_ CLI automation tool config file
 
 We have an example project generated from this template `my_package-project <./my_package-project>`_. Please take a look at it.
+
+I personally use a branch to generate code skeleton for my open source projects.
+
+.. code-block:: bash
+
+    cookiecutter https://github.com/MacHu-GWU/cookiecutter-pyproject --checkout sanhe

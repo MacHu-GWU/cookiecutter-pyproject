@@ -3,7 +3,7 @@
     :target: https://my-package.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://github.com/MacHu-GWU/my_package-project/workflows/CI/badge.svg
+.. image:: https://github.com/MacHu-GWU/my_package-project/actions/workflows/main.yml/badge.svg
     :target: https://github.com/MacHu-GWU/my_package-project/actions?query=workflow:CI
 
 .. image:: https://codecov.io/gh/MacHu-GWU/my_package-project/branch/main/graph/badge.svg
@@ -50,6 +50,9 @@
 
 Welcome to ``my_package`` Documentation
 ==============================================================================
+.. image:: https://my-package.readthedocs.io/en/latest/_static/my_package-logo.png
+    :target: https://my-package.readthedocs.io/en/latest/
+
 Documentation for ``my_package``.
 
 
