@@ -1,17 +1,17 @@
 {
     "package_name": "your_package_name_with_underscore",
     "package_name_slugify": "your-package-name-with-hyphen",
-    "github_username": "your-github-username",
-    "author_name": "Author Name",
-    "author_email": "author@email.com",
-    "maintainer_name": "Maintainer Name",
-    "maintainer_email": "maintainer@email.com",
+    "github_username": "MacHu-GWU",
+    "author_name": "Sanhe Hu",
+    "author_email": "husanhe@gmail.com",
+    "maintainer_name": "Sanhe Hu",
+    "maintainer_email": "husanhe@email.com",
     "semantic_version": "0.1.1",
     "py_ver_major": "3",
     "py_ver_minor": "10",
     "py_ver_micro": "10",
-    "readthedocs_username": "YourReadthedocsUsername",
-    "codecov_token_name": "YourCodecovTokenName",
-    "github_token_name": "YourGithubTokenName",
-    "readthedocs_token_name": "YourReadthedocsTokenName"
+    "readthedocs_username": "machugwu",
+    "codecov_token_name": "sanhe-dev",
+    "github_token_name": "sanhe-dev",
+    "readthedocs_token_name": "sanhe-dev"
 }
